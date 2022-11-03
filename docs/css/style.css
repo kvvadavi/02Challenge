@@ -1,0 +1,31 @@
+/* Universal decleration of CSS */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Background color of HTML of webpage is applied here. */
+body {
+    background-color: #b7c4ff;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:48px;
+    margin: 10px;
+    color: aqua;
+}
+
+nav{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    color: aqua;
+}
+
+header {
+    padding: 20px;
+    background-color: #243c48;
+    color: #ffffff;
+}
