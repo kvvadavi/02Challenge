@@ -14,18 +14,46 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size:48px;
     margin: 10px;
-    color: aqua;
+    color: white;
 }
 
-nav{
+.nav a{
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
     margin: 10px;
-    color: aqua;
+    color: white;
+    overflow: hidden;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
 }
 
 header {
-    padding: 20px;
+    padding: 40px;
     background-color: #243c48;
     color: #ffffff;
+    background-image: url("../images/header.jpeg");
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:28px;
+    margin: 10px;
+    float: left;
+    margin-right: 25px;
+
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
 }
