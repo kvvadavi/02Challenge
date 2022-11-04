@@ -110,6 +110,7 @@ h2 {
     width: 100%;
     height: 19%;
     margin-left: 180px;
+    justify-content: left;
 }
 
 .img2 {
