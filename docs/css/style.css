@@ -133,12 +133,12 @@ h2 {
 
   .two {
     flex: 1;
-    margin-left: 25%;
+    margin-left: 15%;
     white-space: nowrap;
   }
 
   .three {
     flex: 1;
-    margin-left: 25%;
+    margin-left: 15%;
     white-space: nowrap;
   }
