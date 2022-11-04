@@ -1,6 +1,5 @@
 # Krishna Vadavi: Portfolio
 
-## Your Task
 
 This repo host Krishna Vadavi's protfolio. 
 
